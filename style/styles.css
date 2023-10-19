@@ -1,4 +1,12 @@
+h1, h3
+{
+    text-align: center;
+}
 
+p
+{
+    text-align: center;
+}
 .flexMe
 {
     display: flex;
@@ -17,4 +25,20 @@
     width: 60%;
     text-align: center;
     padding: 5px 5px;
+}
+
+.right
+{
+    position: absolute;
+    right: 125px;
+    width: 200px;
+    height: 120px;
+    border: 3px black;
+}
+
+.left
+{
+    position: absolute;
+    left: 125px;
+    border: black;
 }
