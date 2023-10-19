@@ -4,3 +4,17 @@
     display: flex;
     justify-content: space-evenly;
 }
+
+.divButton button {
+    font-size: 20px;
+    width: 30%;
+    border-radius: 10px;
+}
+
+.smallerBox {
+    margin-left: 19%;
+    border: 3px solid;
+    width: 60%;
+    text-align: center;
+    padding: 5px 5px;
+}
